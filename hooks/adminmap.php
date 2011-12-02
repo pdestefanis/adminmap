@@ -306,7 +306,7 @@ class adminmap {
 	//adds the "Full Screen Map" button on the main page
 	public function _add_big_map_main_button()
 	{
-		echo '<div ><a class="bigmapbutton" style="border:2px solid grey; padding: 2px;" href="'.url::site().'bigmap"> VIEW FULL MAP </a></div>';
+		echo '<div class="bigmaplinkbox"><a class="bigmapbutton" href="'.url::site().'bigmap"> VIEW FULL MAP </a></div>';
 	}
 	
 	//adds a tab for the big map on the front end

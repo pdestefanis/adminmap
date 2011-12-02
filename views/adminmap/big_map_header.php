@@ -10,7 +10,7 @@
 	?>
 </head>
 
-<body id="page">
+<body id="page" class="big-map">
 
 
 				<!-- mainmenu -->
